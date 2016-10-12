@@ -1,2 +1,5 @@
-## container with Frontend tools from Compufácil
+## Container with Frontend tools for Compufácil
 
+- NodeJS
+- NPM
+- Yarn
